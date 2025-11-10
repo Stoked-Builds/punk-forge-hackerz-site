@@ -18,7 +18,7 @@ Help us build the punk commons. We’re looking for venue hosts, kit fabricators
 - **Funders:** Councils, foundations, ethical tech companies, community bond buyers.
 - **Media & Amplifiers:** Local radio, zines, community platforms.
 
-See the [partnership playbook](https://github.com/Stoked-Builds/punk-forge-hackerz/blob/main/planning/partnerships.md) for engagement steps and scorecards.
+Request the partnership playbook + engagement scorecards by emailing partnerships@punkforgehackerz.org with your organisation, city, and how you’d like to help.
 
 ## Contact
 - Partnerships & sponsorships: partnerships@punkforgehackerz.org

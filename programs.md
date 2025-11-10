@@ -29,4 +29,4 @@ We build hybrid cohorts that mix code, hardware, music, and community briefs. Ea
 - 🧩 Hardware Rehab Clinics (build/repair PCs for the community).
 - 🧱 3D Printing & Fabrication (distributed printer bank + CAD bootcamps).
 
-See full curriculum docs → [github.com/Stoked-Builds/punk-forge-hackerz/tree/main/curriculum](https://github.com/Stoked-Builds/punk-forge-hackerz/tree/main/curriculum)
+Curriculum PDFs and facilitator packs will be downloadable here once Phase 0 documentation is finalised. For now, reach out via hello@punkforgehackerz.org if you’d like to preview a specific track.

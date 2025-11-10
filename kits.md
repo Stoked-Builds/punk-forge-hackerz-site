@@ -17,4 +17,4 @@ Affordable, open-source, repairable kits keep every hub powered. We design for l
 - Safe & inspiring (consent cues, risk notes, Day-1 wins).
 - Kit-as-a-service subscription so hubs can focus on youth, not procurement.
 
-Full specs live in [`kit-design/mvp.md`](https://github.com/Stoked-Builds/punk-forge-hackerz/blob/main/kit-design/mvp.md) and [`kit-design/README.md`](https://github.com/Stoked-Builds/punk-forge-hackerz/blob/main/kit-design/README.md).
+We’ll publish full BOMs, sourcing notes, and maintenance guides here as soon as each kit finishes pilot testing.

@@ -18,7 +18,7 @@ We are a social-enterprise maker movement teaching young people (8–18) how to 
 4. Ethics are non-negotiable — hacking as care work.
 5. Momentum is sacred — every week, something new lands in the repo.
 
-Full text lives in [`planning/manifesto.md`](https://github.com/Stoked-Builds/punk-forge-hackerz/blob/main/planning/manifesto.md).
+Full manifesto text will live on this site shortly; for now, every workshop starts by reading these ten rules aloud.
 
 ## The Plan
 ### Phase 0 (Now) — Thought Work & Planning
@@ -36,7 +36,7 @@ Full text lives in [`planning/manifesto.md`](https://github.com/Stoked-Builds/pu
 - Punk Forge CIC ↔ Ltd ↔ Ventures loop keeps culture + capital in community hands.
 - Ventures fund youth-led experiments; profits flow back into scholarships and kit R&D.
 
-Read the full roadmap + Phase 1 plan inside [`planning/roadmap.md`](https://github.com/Stoked-Builds/punk-forge-hackerz/blob/main/planning/roadmap.md) and [`planning/phase1_plan.md`](https://github.com/Stoked-Builds/punk-forge-hackerz/blob/main/planning/phase1_plan.md).
+Detailed milestones, budgets, and readiness checklists will be published here as soon as pilots wrap.
 
 ## Curriculum & Tracks
 We run cross-disciplinary tracks so youth can mix tech, art, and activism:
@@ -49,7 +49,7 @@ We run cross-disciplinary tracks so youth can mix tech, art, and activism:
 - 🧩 **Hardware Rehab Clinics** — Computer building, repair, and refurb fleets.
 - 🧱 **3D Printing & Fabrication** — Distributed printer bank with CAD bootcamps.
 
-Every track pairs with open-source kits, facilitator notes, and consent/safety guides in the [curriculum folder](https://github.com/Stoked-Builds/punk-forge-hackerz/tree/main/curriculum).
+Every track ships with facilitator notes, kit dependencies, and consent/safety guides. We’ll be publishing printable versions on this site as Phase 0 wraps.
 
 ## Kits & Hardware
 Phase 0 MVPs we’re prototyping:
@@ -57,27 +57,27 @@ Phase 0 MVPs we’re prototyping:
 2. **Punk Robotics Pack** — line-following/obstacle bots with punk styling.
 3. **Noise Hacker Lab** — contact mics, circuit-bend components, wearable LEDs.
 
-Kits are open-spec, affordable, repairable, and shipped as a subscription so hubs can focus on youth instead of procurement. Specs live in [`kit-design/mvp.md`](https://github.com/Stoked-Builds/punk-forge-hackerz/blob/main/kit-design/mvp.md).
+Kits are open-spec, affordable, repairable, and shipped as a subscription so hubs can focus on youth instead of procurement. Full BOMs and sourcing notes will be released here alongside pilot reports.
 
 ## Safeguarding & Community Care
-- **Code of Conduct:** Zero tolerance for harassment, transparent reporting channels, restorative practice steps. [`community/CODE_OF_CONDUCT.md`](https://github.com/Stoked-Builds/punk-forge-hackerz/blob/main/community/CODE_OF_CONDUCT.md)
-- **Mentor Guide:** Onboarding checklist, session responsibilities, inclusion practices. [`community/mentor_guide.md`](https://github.com/Stoked-Builds/punk-forge-hackerz/blob/main/community/mentor_guide.md)
+- **Code of Conduct:** Zero tolerance for harassment, transparent reporting channels (email + anonymous form), restorative practice steps. Full text will be published here shortly.
+- **Mentor Guide:** Onboarding checklist, session responsibilities, inclusion practices, and communication cadences — currently in mentor training packs and coming to the site next.
 - **Impact instrumentation:** Airtable + dashboards (in progress) to track attendance, demographics, skill growth, volunteer hours, and reinvestment.
 
 ## Impact & Finance
-- **Metrics:** Engagement, demographic mix, project output, volunteer hours, alumni pathways, reinvestment ratio. [`planning/impact-metrics.md`](https://github.com/Stoked-Builds/punk-forge-hackerz/blob/main/planning/impact-metrics.md)
-- **Financial model:** Blended revenue (grants, program fees, kit/training subscriptions, ventures). Conservative projections hit break-even within 12–18 months. [`planning/financial_model.md`](https://github.com/Stoked-Builds/punk-forge-hackerz/blob/main/planning/financial_model.md)
+- **Metrics:** Engagement, demographic mix, project output, volunteer hours, alumni pathways, reinvestment ratio. We will publish a public dashboard so these numbers are always visible.
+- **Financial model:** Blended revenue (grants, program fees, kit/training subscriptions, ventures). Conservative projections hit break-even within 12–18 months. Scenario tables (1/3/5/10-year) will be shared in the transparency section soon.
 - **Risk posture:** Fund diversification, kit-as-a-service, hosted hubs, and strict readiness gates keep the movement resilient.
 
 ## Hub Pipeline
 We’ve ranked target regions across the UK using deprivation data, transport, and partner readiness.  
 Top tier: Birmingham Eastside, Manchester NE, Glasgow East, Bolton, Sunderland, Thames Gateway, Dundee, Oldham, Nottingham, Teesside.  
-Explore the data: [`planning/hub-candidates.md`](https://github.com/Stoked-Builds/punk-forge-hackerz/tree/main/planning/hub-candidates.md)
+Explore the data: regional dossiers are being rewritten for the site and will appear here as soon as they clear partner review.
 
 ## How to Plug In
-- **Partners / Sponsors:** See the [partnerships playbook](https://github.com/Stoked-Builds/punk-forge-hackerz/blob/main/planning/partnerships.md) and email partnerships@punkforgehackerz.org.
+- **Partners / Sponsors:** Email partnerships@punkforgehackerz.org and we’ll send the playbook + scorecard pack.
 - **Mentors / Facilitators:** Start with the mentor guide, complete safeguarding, and join an upcoming cohort.
 - **Youth & Families:** Watch the [updates](updates/2025-11-08-phase-0-launch.md) for pilot announcements or email hello@punkforgehackerz.org to host a hub.
-- **Contributors:** Submit curriculum, kits, or translations via GitHub Issues/PRs referencing `phase-0`.
+- **Contributors:** Email contribute@punkforgehackerz.org with a short note on what you want to build or translate; we’ll reply with the current brief.
 
-We’re building this in the open. Track every change in [`AUDIT.md`](https://github.com/Stoked-Builds/punk-forge-hackerz/blob/main/AUDIT.md) and help us keep the movement honest.
+We’re building this in the open. Weekly updates summarise what’s changed until the full transparency log is published here.

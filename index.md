@@ -9,6 +9,8 @@ layout: default
 Make cool stuff. Learn real skills. Change the world.  
 We’re building a youth-led, open-source maker movement teaching coding, robotics, music tech, and creative hacking.
 
+Born in **Silicon Rammy**. Built for every borough.
+
 ---
 
 ## Phase 0 — Thought Work & Planning
@@ -26,9 +28,14 @@ We are in a three-month slow burn focused on structure, documentation, and commu
 - 🧩 Hardware rehab, AI literacy, 3D printing
 
 ## Where We’re Setting Up
-We’ve ranked hub locations across the UK using socio-economic data, transport, and partner readiness.  
-Top targets right now: Birmingham Eastside, Manchester NE Corridor, Glasgow East, Bolton, Sunderland.  
-[See the full ranking →](https://github.com/Stoked-Builds/punk-forge-hackerz/tree/main/planning/hub-candidates.md)
+We’ve scored every potential hub using deprivation data, transport links, and partner appetite. Top contenders right now:
+- **Birmingham Eastside & Ladywood** — huge youth base, HS2/STEAMhouse partners.
+- **Manchester North/East Corridor** — Factory/HideOut youth zones, extreme need.
+- **Glasgow East / Clyde Gateway** — regeneration cash + college backing.
+- **Bolton** — university STEAM centre, council STEM mandate.
+- **Sunderland & Washington** — City of Culture energy, Nissan/software partners.
+
+We’ll publish deeper regional dossiers here as soon as site visits conclude.
 
 ## Follow the Build
 - 📓 [Deep dive: About & Plan](about.md)
